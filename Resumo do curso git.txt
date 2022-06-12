@@ -1,0 +1,27 @@
+- Vamos aprender a manipular o git:
+Inicialmente recomendo da uma estudada no assunto conforme Link:  "Introdução ao Git e ao GitHub", onde terá muita dica de como usar, com vários comandos.
+
+Irá aprender:
+
+1 - Controle de versão;
+2 - Armazenamento em nuvem;
+3 - Trabalho em equipe;
+4 - Melhoria de código;
+5 - Reconhecimento.
+
+É mostrado também os comando:
+
+CD, CD .., Dir, LS, MKDIR, DEL, RMDIR, pull CLEAR, TAB, COMMIT -M, ADD, INIT, MV, dentre vários outros comandos e suas funcionalidades, principalmente o "status" que é um comando muito usado para pormos nos situar.
+
+Todo passa a passo é mostrado para configuração  e instalação do git e github.
+
+Tem também os Blobs em relação aos objetos interno do git.
+
+E o SHA1 - que nada mais é que um algorítmo de criptação, onde será bem explicado, junto com suas chaves públicas e privada.
+
+Bem! esse é um breve resumo dos assuntos desse curso que anotei, tem o token de acesso pessoal também, tem muito conteúdo.
+
+É um curso com conteúdos bacana e de grande impotância, vale a pena da uma olhada.
+
+
+ 
