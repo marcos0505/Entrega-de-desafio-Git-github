@@ -17,11 +17,11 @@ Todo passa a passo é mostrado para configuração  e instalação do git e gith
 
 Tem também os Blobs em relação aos objetos interno do git.
 
-E o SHA1 - que nada mais é que um algorítmo de criptação, onde será bem explicado, junto com suas chaves públicas e privada.
+E o SHA1 - que nada mais é que um algorítmo de criptação, onde será bem explicado, junto com suas chaves públicas e privadas.
 
 Bem! esse é um breve resumo dos assuntos desse curso que anotei, tem o token de acesso pessoal também, tem muito conteúdo.
 
-É um curso com conteúdos bacana e de grande impotância, vale a pena da uma olhada.
+É um curso com conteúdos bacana e de grande importância, vale a pena da uma olhada.
 
 
  
